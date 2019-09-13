@@ -1,6 +1,6 @@
 1.我的GIF类别主要是日本，欧美，有时发视频
 
-2.我的GIF出处在Band更新，实行会员订阅制
+2.我的GIF出处在Band（安卓下载https://www.lanzous.com/i2iebza 苹果在商店搜索Band）更新，实行会员订阅制
 具体套餐请查看另一条公告
 逾期未续订者将被移出车库
 
@@ -30,7 +30,7 @@
 
 三、购买套餐
 
-可通过支付宝扫码点单或QQ、微信扫码支付。售后QQ2942869624
+可通过支付宝扫码点单或QQ、微信扫码支付。支付后加QQ2942869624加入Band
 
 支付宝红包https://github.com/yhfnazi/yhfnazi-gif/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%BA%A2%E5%8C%85.jpg
 
