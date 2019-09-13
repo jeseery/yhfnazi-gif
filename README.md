@@ -31,3 +31,9 @@
 三、购买套餐
 
 可通过支付宝扫码点单或QQ、微信扫码支付。售后QQ2942869624
+
+支付宝红包https://github.com/yhfnazi/yhfnazi-gif/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%BA%A2%E5%8C%85.jpg
+
+支付宝扫码点单https://github.com/yhfnazi/yhfnazi-gif/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%89%AB%E7%A0%81%E7%82%B9%E5%8D%95.jpg
+
+QQ、微信支付https://github.com/yhfnazi/yhfnazi-gif/blob/master/QQ.%E5%BE%AE%E4%BF%A1%E4%BB%98%E6%AC%BE.png
